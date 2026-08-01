@@ -1,3 +1,9 @@
+# Code with GitHub Copilot — Learning Artifact
+
+This repository is a completed GitHub Skills course demonstrating Copilot-assisted development in VS Code and Codespaces. The existing Actions workflows are retained as the course's reproducible learning path.
+
+**Portfolio context:** an educational artifact, not a production application.
+
 <header>
 
 <!--
